@@ -1,0 +1,33 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Distribución
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
